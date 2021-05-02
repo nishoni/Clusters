@@ -150,7 +150,7 @@
     <ClCompile Include="Hierarchy.cpp" />
     <ClCompile Include="Interface.cpp" />
     <ClCompile Include="Point.cpp" />
-    <ClCompile Include="Stas.cpp" />
+    <ClCompile Include="main.cpp" />
     <ClCompile Include="Wave.cpp" />
   </ItemGroup>
   <ItemGroup>
